@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "A murder case has many layers: the victim, the crime, and the investigation. To truly understand it, you need to dissect each piece of a tragic puzzle. Join Anna-Sigga Nicolazzi and Scott Weinberger every Tuesday for an insider’s perspective, as they reveal to you the Anatomy of Murder."; 

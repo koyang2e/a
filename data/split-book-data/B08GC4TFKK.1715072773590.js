@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The goal of this meditiaion is to find and connect with points of tension in your body and ultimately release them. You'll keep the focus on your breathing technique as you drift into deep sleep.</p><p><b>Please note: all Aaptiv audio-fitness programs, including those in your Audible library, will become unavailable after Sept 5, 2019.</b></p>"; 
