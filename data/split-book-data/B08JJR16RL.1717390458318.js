@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Current and classic episodes, featuring compelling true-crime mysteries, powerful documentaries and in-depth investigations. Follow now to get the latest episodes of Dateline NBC completely free, or subscribe to Dateline Premium for ad-free listening and exclusive bonus content: DatelinePremium.com"; 

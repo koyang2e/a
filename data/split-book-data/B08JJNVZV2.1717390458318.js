@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "True horror fan Dan Cummins attempts to terrify his wife Lynze with two new alleged-to-be-true tales each week. Demonic possession, poltergeists, shadow people, and more! Subscribe and listen in the dark to your new weekly nightmare."; 

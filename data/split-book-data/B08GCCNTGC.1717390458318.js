@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>In this meditation you'll practice exploring pre-sleep breathing techniques in more detail. Let go of the worries from the day and fall asleep knowing that when you wake up, you will move mountains.</p><p><b>Please note: all Aaptiv audio-fitness programs, including those in your Audible library, will become unavailable after Sept 5, 2019.</b></p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Put everything you've learned thus far to use in your longest pre-sleep meditation yet. Feel the lasting benefits for releasing stress, tension, and trouble from your mind and your body. </p><p><b>Please note: all Aaptiv audio-fitness programs, including those in your Audible library, will become unavailable after Sept 5, 2019.</b></p>"; 
